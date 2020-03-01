@@ -2,7 +2,7 @@
 This is my daily journal of what I am learning on my JavaScript programming journey. It will be useful for me to keep track of what I am learning.  Also, it will show prospective employers that I have knowledge and experience with GitHib and JavaScript.
 
 
-12/4/2019 ESlint-My New Best Friend
+#12/4/2019 ESlint-My New Best Friend
 
 Summary: ESlint will find and fix things in your JavaScript Code. I knew that style and consistency are important in coding, however,
 today I learned that there are actual style guides at tech companies and if you are going to be a decent developer you 
