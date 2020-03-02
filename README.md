@@ -28,7 +28,7 @@ Also, Today I started a project building a cool [JS etch-a-sketch].
 A function definition consists of the function keyword, a function name, parameters(if applicable) and a scope. The function body is located in the function scope. The value of the funciton is returned when the return keyword is used.  One concept that was confusing me was the difference between function parameters and arguments. Now I understand that function parameters are "placeholders" for data when a function is being defined. The data that may change is/are the arguement(s). Functions are declared/defined and then functions can be called, run or invoked. To capture the return value of a function one must declare a variable with the function name/reference. 
 
 **Skills:**
-Writing simple functions such as a [tip calculator](talarsen/JavaScriptJournalAndProjects/blob/master/tipCalculator.js) or a greeting.
+Writing simple functions such as a [tip calculator](tipCalculator.js) or a greeting.
 
 
 
