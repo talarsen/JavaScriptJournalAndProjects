@@ -20,7 +20,7 @@ I am excited to hop back in the ring of programming. I've been away for awhile..
 **Skills:** 
 Learned about "Fetching Data"...APIS. I built a small JS function to interact with NASA's Mars Insight API to get the current weather where Insight is located... on Elysium Planitia(a broad plain on Mars that strattles the equator).Turning API data into JSON format using a JSON Chrome Extension. Writing a script that displays the API data in the Chrome console.
 
-Also, Today I started a project building a cool [JS etch-a-sketch].
+Also, Today I started a project building a cool [Etch-a-Sketch].
 
 
 **3/1/20 JavaScript Functions**
