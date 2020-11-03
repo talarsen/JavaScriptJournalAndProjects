@@ -17,7 +17,7 @@ Used the command line to install EsLint and configure Eslint according to your s
 **Summary**
 I am excited to hop back in the ring of programming. I've been away for awhile...side tracked on a not yet successful job search. Luckily, I have substitute teaching as a side hustle.  I am excited to get back in the ring and my goal is to code every day.  All self-taught developers say that it is essential to code every day and when the road gets rough don't spend hours on the problem.  Go do something else productive until you are ready to solve the code challenge. So I will code every day. 
 
-**Skills:** 
+**Skills** 
 Learned about "Fetching Data"...APIS. I built a small JS function to interact with NASA's Mars Insight API to get the current weather where Insight is located... on Elysium Planitia(a broad plain on Mars that strattles the equator).Turning API data into JSON format using a JSON Chrome Extension. Writing a script that displays the API data in the Chrome console.
 
 Also, Today I started a project building a cool [Etch-a-Sketch].
