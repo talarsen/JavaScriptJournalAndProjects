@@ -20,9 +20,6 @@ I am excited to hop back in the ring of programming. I've been away for awhile..
 **Skills** 
 Learned about "Fetching Data"...APIS. I built a small JS function to interact with NASA's Mars Insight API to get the current weather where Insight is located... on Elysium Planitia(a broad plain on Mars that strattles the equator).Turning API data into JSON format using a JSON Chrome Extension. Writing a script that displays the API data in the Chrome console.
 
-Also, Today I started a project building a cool [Etch-a-Sketch].
-
-
 **3/1/20 JavaScript Functions**
 **Summary**
 A function definition consists of the function keyword, a function name, parameters(if applicable) and a scope. The function body is located in the function scope. The value of the funciton is returned when the return keyword is used.  One concept that was confusing me was the difference between function parameters and arguments. Now I understand that function parameters are "placeholders" for data when a function is being defined. The data that may change is/are the arguement(s). Functions are declared/defined and then functions can be called, run or invoked. To capture the return value of a function one must declare a variable with the function name/reference. 
@@ -37,7 +34,7 @@ I am excited to start coding again. I joined the Udacity Nanodegree Intro to Pro
 **Summary** 
 I completed the HTML5 and CSS3 in half of the amount of time that is set forth in the program. I really appreciate Udacity's approach to teaching so far. 
 **Skills** 
-A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS. [Social Media Page](https://www.quora.com)
+A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS. [Social Media Page](./socialMediaPage)
 
 
 
