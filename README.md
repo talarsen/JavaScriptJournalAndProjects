@@ -24,12 +24,20 @@ Also, Today I started a project building a cool [Etch-a-Sketch].
 
 
 **3/1/20 JavaScript Functions**
-**Summary:**
+**Summary**
 A function definition consists of the function keyword, a function name, parameters(if applicable) and a scope. The function body is located in the function scope. The value of the funciton is returned when the return keyword is used.  One concept that was confusing me was the difference between function parameters and arguments. Now I understand that function parameters are "placeholders" for data when a function is being defined. The data that may change is/are the arguement(s). Functions are declared/defined and then functions can be called, run or invoked. To capture the return value of a function one must declare a variable with the function name/reference. 
 
 **Skills:**
 Writing simple functions such as a [tip calculator](tipCalculator.js) or a [simple greeting](simpleGreeting.js).
 
+**8/1/20** A fresh start during quarantine.
+I am excited to start coding again. I joined the Udacity Nanodegree Intro to Programming program. The program focuses on HTML 5 and CSS3. 
+
+**8/20/20**
+**Summary** 
+I completed the HTML5 and CSS3 in half of the amount of time that is set forth in the program. I really appreciate Udacity's approach to teaching so far. 
+**Skills** 
+A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS.  
 
 
 
