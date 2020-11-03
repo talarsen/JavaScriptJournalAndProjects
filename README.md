@@ -1,5 +1,5 @@
-# myJournalToBecomingAJavaScriptProgrammer
-This is my daily journal of what I am learning on my JavaScript programming journey. It will be useful for me to keep track of what I am learning.  Also, it will show prospective employers that I have knowledge and experience with GitHib and JavaScript.
+# myJournalToBecomingAProgrammer
+This is my daily journal of what I am learning on my JavaScript programming journey. It will be useful for me to keep track of what I am learning.  Also, it will show prospective employers that I have knowledge and experience with GitHib,HTML5, CSS3, Python and JavaScript.
 
 
 **12/4/2019 ESlint-My New Best Friend
@@ -34,7 +34,7 @@ I am excited to start coding again. I joined the Udacity Nanodegree Intro to Pro
 **Summary** 
 I completed the HTML5 and CSS3 in half of the amount of time that is set forth in the program. I really appreciate Udacity's approach to teaching so far. 
 **Skills** 
-A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS. [Social Media Page](./socialMediaPage)
+A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS. I've expanded my knowledge with BootStrap too. Here's a page I built using Bootstrap. [Social Media Page](./socialMediaPage)
 
 
 
