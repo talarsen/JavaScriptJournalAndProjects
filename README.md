@@ -37,7 +37,7 @@ I am excited to start coding again. I joined the Udacity Nanodegree Intro to Pro
 **Summary** 
 I completed the HTML5 and CSS3 in half of the amount of time that is set forth in the program. I really appreciate Udacity's approach to teaching so far. 
 **Skills** 
-A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS.  ./SocialMedia
+A clearer understanding of HTML5 tags and how CSS works with HTML. I struggled with CSS3 for so long, but now after completing the lessons on Udacity, I much more confident with writing CSS  ./SocialmediaPage
 
 
 
