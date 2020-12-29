@@ -8,14 +8,14 @@ function makeLine(length) {
   return line + "\n";
 }
 
-// function that build a triangle of *
+// function that builds a triangle of *
 function buildTriangle(length) {
     // build a huge string equivalent to the triangle
     var triangle = "";
 
     //start from the topmost line
     var lineNumber = 1;
-
+  //for loop determines the number of lines the triangle will have. 
     for(lineNumber = 1; lineNumber <= length; lineNumber++){
     
         triangle = triangle + makeLine(lineNumber);
