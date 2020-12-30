@@ -43,6 +43,9 @@ In December, I applied to the Techtonica program, but unfortunately I was not ac
 **Skills**
 Here is a recent JS program that [builds a simple triangle](buildTriangle.js)
 
-
+**PROJECTS**
+[tip calculator](tipCalculator.js)
+[simple greeting](simpleGreeting.js)
+[build a simple triangle])buildTriangle.js)
 
 
