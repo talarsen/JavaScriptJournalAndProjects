@@ -39,6 +39,7 @@ A clear understanding of HTML5 tags and how CSS works with HTML. I struggled wit
 **12/29/20**
 **Summary**
 In December, I applied to the Techtonica program, but unfortunately I was not accepted.  I need to improve my JavaScript skills. I am using Udacity,Techtonica curriculum and FreeCodeCamp to learn JavaScript and complete projects.
+
 **Skills**
 Here is a recent JS program that [builds a simple triangle](buildTriangle.js)
 
