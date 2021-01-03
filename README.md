@@ -62,6 +62,8 @@ There is also the map() method
 
 [build a simple triangle](buildTriangle.js)
 
-[Simple forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3] 
+[forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3] (forEach.js)
+
+
 
 
