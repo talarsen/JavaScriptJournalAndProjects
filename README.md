@@ -52,7 +52,7 @@ Index (optional) - The current element's index number
 Array (optional) - The array object to which the current element belongs
 
 -------------------------------
-There is also the map() method
+There is also the map() method creates an array by calling a specific function on each element present in the parent array. It does not change the original array. 
 
 **PROJECTS**
 
