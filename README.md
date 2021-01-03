@@ -62,7 +62,7 @@ There is also the map() method creates an array by calling a specific function o
 
 [build a simple triangle](buildTriangle.js)
 
-[forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3] (forEach.js)
+[forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3](forEach.js)
 
 
 
