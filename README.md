@@ -48,7 +48,9 @@ Here is a recent JS program that [builds a simple triangle](buildTriangle.js)
 Arrays and how to loop/iterate through an array. A for loop does the job, but the forEach() method passes a callback function for each element of an array together with the following parameters:
 
 Current Value (required) - The value of the current array element
+
 Index (optional) - The current element's index number
+
 Array (optional) - The array object to which the current element belongs
 
 -------------------------------
