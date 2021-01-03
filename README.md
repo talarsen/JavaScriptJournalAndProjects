@@ -43,6 +43,17 @@ In December, I applied to the Techtonica program, but unfortunately I was not ac
 **Skills**
 Here is a recent JS program that [builds a simple triangle](buildTriangle.js)
 
+**12/30-1/3**
+**Summary**
+Arrays and how to loop/iterate through an array. A for loop does the job, but the forEach() method passes a callback function for each element of an array together with the following parameters:
+
+Current Value (required) - The value of the current array element
+Index (optional) - The current element's index number
+Array (optional) - The array object to which the current element belongs
+The forEach method returns the value of undefined.
+-------------------------------
+There is also the map() method
+
 **PROJECTS**
 
 [simple greeting](simpleGreeting.js)
@@ -50,5 +61,7 @@ Here is a recent JS program that [builds a simple triangle](buildTriangle.js)
 [tip calculator](tipCalculator.js)
 
 [build a simple triangle](buildTriangle.js)
+
+[Simple forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3] 
 
 
