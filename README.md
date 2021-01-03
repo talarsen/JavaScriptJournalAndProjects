@@ -50,7 +50,7 @@ Arrays and how to loop/iterate through an array. A for loop does the job, but th
 Current Value (required) - The value of the current array element
 Index (optional) - The current element's index number
 Array (optional) - The array object to which the current element belongs
-The forEach method returns the value of undefined.
+
 -------------------------------
 There is also the map() method
 
