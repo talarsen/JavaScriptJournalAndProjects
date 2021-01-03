@@ -56,6 +56,10 @@ Array (optional) - The array object to which the current element belongs
 -------------------------------
 There is also the map() method creates an array by calling a specific function on each element present in the parent array. It does not change the original array. 
 
+-------------------------------
+
+Nested arrays can be viewed as a grid structure with rows and columns. Nested For loops can access the nested array. 
+
 **PROJECTS**
 
 [simple greeting](simpleGreeting.js)
@@ -66,6 +70,9 @@ There is also the map() method creates an array by calling a specific function o
 
 [forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3](forEach.js)
 
+[using a nested For loop to access a nested array] (nestedArray.js)
+                     
+ 
 
 
 
