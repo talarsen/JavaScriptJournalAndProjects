@@ -70,7 +70,7 @@ Nested arrays can be viewed as a grid structure with rows and columns. Nested Fo
 
 [forEach method program: loops through an array and adds 100 to any number in the array that is divisible by 3](forEach.js)
 
-[using a nested For loop to access a nested array] (nestedArray.js)
+[using a nested For loop to access a nested array](nestedArray.js)
                      
  
 
