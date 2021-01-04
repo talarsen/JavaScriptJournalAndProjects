@@ -1,5 +1,5 @@
 # myJourneyToBecomingAProgrammer
-This is my journal of my JavaScript programming journey. It will be useful for me to keep track of what I am learning.  Also, it will show prospective employers that I have knowledge and experience with GitHib,HTML5, CSS3, Python and JavaScript.
+This is my journal of my JavaScript programming journey. It will be useful for me to keep track of what I am learning and it will show prospective employers that I have knowledge and experience with GitHib, HTML5, CSS3, and JavaScript.
 
 
 **12/4/2019 ESlint-My New Best Friend
