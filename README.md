@@ -63,6 +63,7 @@ Nested arrays can be viewed as a grid structure with rows and columns. Nested Fo
 
 **1/4-1/10**
 Continuing with learning about arrays and objects. Revisted the forEach loop and made this simple program which loops over the array and prints out an array summary using console.log. [donut array forEach method](donuts.js)
+
 **PROJECTS**
 
 [simple greeting](simpleGreeting.js)
